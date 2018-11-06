@@ -1,0 +1,11 @@
+C:\Users\msaibi\Desktop\Training\ML&AI\bin\Debug\netcoreapp2.1\ML&AI.deps.json
+C:\Users\msaibi\Desktop\Training\ML&AI\bin\Debug\netcoreapp2.1\ML&AI.runtimeconfig.json
+C:\Users\msaibi\Desktop\Training\ML&AI\bin\Debug\netcoreapp2.1\ML&AI.runtimeconfig.dev.json
+C:\Users\msaibi\Desktop\Training\ML&AI\bin\Debug\netcoreapp2.1\ML&AI.dll
+C:\Users\msaibi\Desktop\Training\ML&AI\bin\Debug\netcoreapp2.1\ML&AI.pdb
+C:\Users\msaibi\Desktop\Training\ML&AI\obj\Debug\netcoreapp2.1\ML&AI.csprojAssemblyReference.cache
+C:\Users\msaibi\Desktop\Training\ML&AI\obj\Debug\netcoreapp2.1\ML&AI.csproj.CoreCompileInputs.cache
+C:\Users\msaibi\Desktop\Training\ML&AI\obj\Debug\netcoreapp2.1\ML&AI.AssemblyInfoInputs.cache
+C:\Users\msaibi\Desktop\Training\ML&AI\obj\Debug\netcoreapp2.1\ML&AI.AssemblyInfo.cs
+C:\Users\msaibi\Desktop\Training\ML&AI\obj\Debug\netcoreapp2.1\ML&AI.dll
+C:\Users\msaibi\Desktop\Training\ML&AI\obj\Debug\netcoreapp2.1\ML&AI.pdb
